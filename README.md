@@ -1,8 +1,12 @@
 # ViralMultiNet: A Structure-Aware Multimodal Framework for Viral Genome Classification
+# ViralMultiNet
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18301000.svg)](https://doi.org/10.5281/zenodo.18301000)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-1.10+-ee4c2c.svg)](https://pytorch.org/)
+
+Official implementation of "ViralMultiNet: A Structure-Aware Multimodal 
+Framework for Viral Genome Classification"
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Official implementation of **"ViralMultiNet: A Structure-Aware Multimodal Framework for Viral Genome Classification"**, addressing reviewer comments on reproducibility, code structure, and data access.
 
