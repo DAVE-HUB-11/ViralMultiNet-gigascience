@@ -1,4 +1,4 @@
-# ViralMultiNet: A Structure-Aware Multimodal Framework for Viral Genome Classification
+# ViralMultiNet: ViralMultiNet: A structure-aware multimodal framework for viral protein function prediction in wastewater surveillance
 # ViralMultiNet
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18301000.svg)](https://doi.org/10.5281/zenodo.18301000)
